@@ -1,4 +1,3 @@
-# 若不了解以下程式碼內容，請勿擅自修改或更動，避免出現嚴重 BUG
 from bs4 import BeautifulSoup
 from openpyxl import load_workbook, Workbook
 from random_user_agent.user_agent import UserAgent
